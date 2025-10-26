@@ -1,0 +1,6 @@
+streamlit
+faiss-cpu==1.7.2
+sentence-transformers
+langchain
+pypdf
+numpy
