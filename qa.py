@@ -1,4 +1,4 @@
-import faiss
+import faiss-cpu
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
